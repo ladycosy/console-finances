@@ -6,7 +6,7 @@ Elements to be calculated and printed in console:
 1. number of months
 2. total amount of sales
 3. changes in profits/losses from month to month 
-4. average of these changes
+4. average of the monthly changes
 5. greatest increase & decrease in profits based on monthly changes
 
 The monthly sales data had been provided for this task. There were two data points provided: name of the month/year and month's profit/loss in $. The number of data rows = 86.  
