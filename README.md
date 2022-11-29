@@ -23,9 +23,6 @@ The following print has to be generated in console as an end result:
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
-![end result](https://user-images.githubusercontent.com/116603761/204572267-1ad6e4b1-3af8-4648-9ecd-21a4adae2a09.png)
-
-
 ## User Story
 
 As a company
