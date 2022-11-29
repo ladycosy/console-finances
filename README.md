@@ -13,6 +13,16 @@ The monthly sales data had been provided for this task. There were two data poin
 
 The following print has to be generated in console as an end result:
 
+```text
+  Financial Analysis
+  ----------------------------
+  Total Months: 25
+  Total: $38382578
+  Average  Change: $-2315.12
+  Greatest Increase in Profits: Feb-2012 ($1926159)
+  Greatest Decrease in Profits: Sep-2013 ($-2196167)
+  ```
+
 ![end result](https://user-images.githubusercontent.com/116603761/204572267-1ad6e4b1-3af8-4648-9ecd-21a4adae2a09.png)
 
 
