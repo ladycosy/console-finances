@@ -1,4 +1,5 @@
 # console-finances
+
 Creating code for analyzing the financial records of a company using HTML (minimal) and JavaScript. 
 
 Elements to be calculated and printed in console: 
