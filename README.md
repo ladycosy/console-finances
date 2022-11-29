@@ -12,4 +12,7 @@ To receive the following output
 
 ## Acceptance Criteria
 * Write clear comments at each stage 
-* 
+
+
+
+## Deployed Application
