@@ -1,6 +1,6 @@
 # Console-Finances
 
-Creating code for analyzing the financial records of a company using HTML (minimal) and 'JavaScript'. 
+Creating code for analyzing the financial records of a company using `HTML` (minimal) and `JavaScript`. 
 
 Elements to be calculated and printed in console: 
 1. number of months
@@ -27,10 +27,9 @@ To receive the specific output logged into the console
 
 ## Acceptance Criteria
 * Link the JavaScript file to the HTML file
-* Write clear comments at each stage of writing up the code
+* Write clear comments at each stage of writing up the code in JavaScript
 * Log the desired output into the console
 * Deploy the website and check that it loads with no errors
-
 
 
 
