@@ -34,3 +34,13 @@ To receive the specific output logged into the console
 
 
 ## Deployed Application
+
+Live URL
+
+GitHub Repo
+
+## Screenshot
+
+
+
+
