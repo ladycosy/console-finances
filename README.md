@@ -1,4 +1,4 @@
-# console-finances
+# Console-Finances
 
 Creating code for analyzing the financial records of a company using HTML (minimal) and JavaScript. 
 
@@ -12,7 +12,8 @@ Elements to be calculated and printed in console:
 The monthly sales data had been provided for this task. There were two data points provided: name of the month/year and month's profit/loss in $. The number of data rows = 86.  
 
 The following print has to be generated in console as an end result:
-![HTML Logo](https://user-images.githubusercontent.com/116603761/204518316-3037b383-1256-42e1-b222-940865b9b800.png)
+
+![end result](https://user-images.githubusercontent.com/116603761/204572267-1ad6e4b1-3af8-4648-9ecd-21a4adae2a09.png)
 
 
 ## User Story
@@ -33,13 +34,15 @@ To receive the specific output logged into the console
 
 
 
-## Deployed Application
+## Link to Deployed Application
 
-Live URL
+[Live URL](https://ladycosy.github.io/console-finances/)
 
-GitHub Repo
+## Link to Project GitHub Repo
 
-## Screenshot
+[GitHub Repo](https://github.com/ladycosy/console-finances.git)
+
+
 
 
 
