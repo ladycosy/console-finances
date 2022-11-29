@@ -87,3 +87,10 @@ var finances = [
 ['Feb-2017', 671099]
 ];
 
+
+// declaring variables
+var totalMonths =0;
+var changes =[];
+var sumChanges =0;
+var min =0;
+var max =0;
