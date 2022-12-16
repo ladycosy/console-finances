@@ -24,13 +24,11 @@ The following print has to be generated in console as an end result:
   ```
 
 ## User Story
-
+```
 As a company
-
 I want to analyze my financial monthly data
-
 To receive the specific output logged into the console
-
+```
 
 ## Acceptance Criteria
 * Link the JavaScript file to the HTML file
