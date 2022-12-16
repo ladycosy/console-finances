@@ -2,6 +2,8 @@
 
 Creating **code for analyzing the financial records** of a company using `HTML` (minimal) and `JavaScript`. 
 
+## Overview
+
 Elements to be calculated and printed in console: 
 1. number of months
 2. total amount of sales
