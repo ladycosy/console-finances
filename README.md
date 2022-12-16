@@ -46,8 +46,6 @@ To receive the specific output logged into the console
 
 [GitHub Repo](https://github.com/ladycosy/console-finances.git)
 
-## Screenshot
-
 ---
 
 
