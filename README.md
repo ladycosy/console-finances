@@ -51,8 +51,10 @@ To receive the specific output logged into the console
 
 ## Screenshot
 Page:
+
 <img src="https://github.com/ladycosy/console-finances/blob/main/images/page-screenshot.png" alt="page screenshot" width="600"/>
 
 Console:
+
 <img src="https://github.com/ladycosy/console-finances/blob/main/images/console-print.png" alt="page screenshot" width="400"/>
 ---
