@@ -29,7 +29,7 @@ The following print has to be generated in console as an end result:
 ## User Story
 
 ```
-AS  A company
+AS A company
 I WANT TO analyze my financial monthly data
 AS THAT I can receive the specific output logged into the console
 ```
