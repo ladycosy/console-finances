@@ -51,5 +51,5 @@ To receive the specific output logged into the console
 
 ## Screenshot
 <img src="https://github.com/ladycosy/console-finances/blob/main/images/page-screenshot.png" alt="page screenshot" width="400"/>
-<img src="https://github.com/ladycosy/console-finances/blob/main/images/console-print.png" alt="page screenshot" width="100"/>
+<img src="https://github.com/ladycosy/console-finances/blob/main/images/console-print.png" alt="page screenshot" width="400"/>
 ---
