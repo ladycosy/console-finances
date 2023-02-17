@@ -57,4 +57,5 @@ Page:
 Console:
 
 <img src="https://github.com/ladycosy/console-finances/blob/main/images/console-print.png" alt="page screenshot" width="400"/>
+
 ---
