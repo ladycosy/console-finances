@@ -50,5 +50,6 @@ To receive the specific output logged into the console
 [GitHub Repo](https://github.com/ladycosy/console-finances.git)
 
 ## Screenshot
-
+<img src="https://github.com/ladycosy/console-finances/blob/main/images/page-screenshot.png" alt="page screenshot" width="400"/>
+<img src="https://github.com/ladycosy/console-finances/blob/main/images/console-print.png" alt="page screenshot" width="100"/>
 ---
